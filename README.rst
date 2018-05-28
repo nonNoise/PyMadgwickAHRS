@@ -4,7 +4,7 @@
 
 Implementation of Madgwick's IMU and AHRS algorithms.
 
-See: http:#www.x-io.co.uk/node/8#open_source_ahrs_and_imu_algorithms
+See: http:www.x-io.co.uk/node/8#open_source_ahrs_and_imu_algorithms
 
 Thank you for such a wonderful source. 
 
